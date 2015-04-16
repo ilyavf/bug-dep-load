@@ -1,4 +1,4 @@
-System.import('components/page1/')
+System.import('components/page1')
     .then(function(results) {
       console.log('Successfully loaded: page1');
     })

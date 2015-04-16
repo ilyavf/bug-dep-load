@@ -44,8 +44,8 @@
 		//	stache: "can/view/stache/system"
 		//},
 		bundle:[
-			"components/page1/page1",
-			"components/page2/page2"
+			"components/page1",
+			"components/page2"
 		]
 	});
 
