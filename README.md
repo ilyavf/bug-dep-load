@@ -27,9 +27,9 @@ Notice in console:
 ```
 steal.js:1622 Assertion failed: is loading
 steal.js:1908 Assertion failed: Load in linkSet not loaded!
-index.js:75 Invalid page linked!
-steal.js:140 Potentially unhandled rejection [4] TypeError: Error loading "rinsTokeninput" at rinsTokeninput
-Error loading "rinsTokeninput" from "components/page1/page1" at http://localhost:8000/components/page1/page1.js
+index:1 Invalid page linked!
+steal.js:140 Potentially unhandled rejection [4] TypeError: Error loading "jquery" at jquery
+Error loading "jquery" from "components/page1/page1" at http://localhost:8000/components/page1/page1.js
 Cannot read property 'name' of null
     at linkSetFailed (http://localhost:8000/bower_components/steal/steal.js:1821:38)
     at doLink (http://localhost:8000/bower_components/steal/steal.js:1765:7)

@@ -1,5 +1,5 @@
+import jquery from 'jquery';
 import jqueryui from 'jqueryui';
-import tokeninput from 'rinsTokeninput';
 
 console.log('page2.js loaded.');
 

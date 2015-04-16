@@ -32,9 +32,7 @@
 		},
 		paths: {
 			"jquery": "bower_components/jquery/dist/jquery.js",
-			"jqueryui": "bower_components/jquery-ui/jquery-ui.js",
-			"rinsTokeninput": "rins_cutom_plugin/tokenInput/jquery.tokeninput.js",
-			"can/*": "bower_components/canjs/*.js"
+			"jqueryui": "bower_components/jquery-ui/jquery-ui.js"
 		},
 		meta: {
 			jquery: {
