@@ -33,7 +33,7 @@ module.exports = function (grunt) {
           },
           buildOptions: {
             bundleSteal: false,
-            minify: true
+            minify: false
           }
         }
       }

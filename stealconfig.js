@@ -35,17 +35,17 @@
 			"jqueryui": "bower_components/jquery-ui/jquery-ui.js"
 		},
 		meta: {
-			jquery: {
-				exports: "jQuery",
-				deps: supportsUnknownElements ? undefined : ["can/lib/html5shiv.js"]
-			}
+				jquery: {
+					exports: "jQuery",
+					deps: supportsUnknownElements ? undefined : ["can/lib/html5shiv.js"]
+				}
 		},
 		//ext: {
 		//	stache: "can/view/stache/system"
 		//},
 		bundle:[
-			"components/page1",
-			"components/page2"
+			"components/page1"
+			//"components/page2"
 		]
 	});
 
